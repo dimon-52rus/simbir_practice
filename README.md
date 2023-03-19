@@ -29,6 +29,7 @@
 git clone https://github.com/anfederico/Flaskex
 cd Flaskex
 pip install -r requirements.txt
+!!! Поправил скрипт ./scripts/form.py: неправильные строки закомментировал, нужные прописал.
 python app.py
 ```
 
